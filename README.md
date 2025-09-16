@@ -3,6 +3,12 @@ TD noté Typescript à rendre le 16/09/2025
 
 Code entièrement commenté et expliqué.
 
+Pour lancer le script, taper dans le terminal les commandes suivantes : 
+tsc Car.ts
+node Car.js
+tsc testCar.ts
+node testCar.js
+
 ## Classe Car
 ### Prérequis : 
 - propriétés brand, model, color, year, speed, started
